@@ -12,7 +12,7 @@ Author: Maximilian Bundscherer (https://bundscherer-online.de)
 2. Create your own new page
 3. Add empty template to your new created page
 4. Include static "Fluid Content Elements" (Edit template -> Includes)
-5. Add typoscript-file-content (``src/typoscript.txt``) (Edit template -> General)
+5. Add typoscript-file-content (``src/typoscript.ts``) (Edit template -> General)
 6. Add template-file (``src/t.html``) to your server ``fileadmin\template\t.html``
 7. (Opt.) Change template-file-path in your typoscript-config (Edit template -> General)
 8. Have fun!
